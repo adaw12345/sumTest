@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<states>
+	<state name="California" offices="35" rating="47.8">
+		<cities>
+			<city name="Los Angeles" employees="187" coverage="0.0914" />
+			<city name="San Diego" employees="200" coverage="0.0746" />
+			<city name="San Jose" employees="98" coverage="0.0158" />
+			<city name="San Francisco" employees="401" coverage="0.0123" />
+			<city name="Fresno" employees="603" coverage="0.0741" />
+			<city name="Sacramento" employees="1000" coverage="0.0500" />
+			<city name="Long Beach" employees="70" coverage="0.0458" />
+			<city name="Oakland" employees="125" coverage="0.0325" />
+			<city name="Bakersfield" employees="57" coverage="0.0499" />
+			<city name="Anaheim" employees="300" coverage="0.0231" />
+		</cities>
+	</state>
+	<state name="Texas" offices="12" rating="30.37">
+		<cities>
+			<city name="Houston" employees="251" coverage="0.0714" />
+			<city name="San Antonio" employees="300" coverage="0.0444" />
+			<city name="Dallas" employees="400" coverage="0.0358" />
+			<city name="Austin" employees="401" coverage="0.0223" />
+			<city name="Fort Worth" employees="800" coverage="0.0841" />
+			<city name="El Paso" employees="1000" coverage="0.0900" />
+			<city name="Arlington" employees="233" coverage="0.0477" />
+			<city name="Corpus Christi" employees="781" coverage="0.0625" />
+			<city name="Plano" employees="757" coverage="0.0399" />
+			<city name="Laredo" employees="99" coverage="0.0431" />
+		</cities>
+	</state>
+	<state name="Florida" offices="42" rating="70.49">
+		<cities>
+			<city name="Jacksonville" employees="98" coverage="0.0114" />
+			<city name="Miami" employees="50" coverage="0.0333" />
+			<city name="Tampa" employees="98" coverage="0.0558" />
+			<city name="Orlando" employees="70" coverage="0.0313" />
+			<city name="St. Petersburg" employees="300" coverage="0.0441" />
+			<city name="Hialeah" employees="231" coverage="0.0700" />
+			<city name="Port St. Lucie" employees="121" coverage="0.0854" />
+			<city name="Cape Coral" employees="26" coverage="0.0925" />
+			<city name="Tallahassee" employees="10" coverage="0.0999" />
+			<city name="Fort Lauderdale" employees="56" coverage="0.0731" />
+		</cities>
+	</state>
+	<state name="New York" offices="13" rating="90.84">
+		<cities>
+			<city name="New York City" employees="1200" coverage="0.0414" />
+			<city name="Buffalo" employees="1000" coverage="0.446" />
+			<city name="Rochester" employees="300" coverage="0.758" />
+			<city name="Yonkers" employees="455" coverage="0.0323" />
+			<city name="Syracuse" employees="700" coverage="0.0141" />
+			<city name="Albany" employees="1000" coverage="0.0505" />
+			<city name="New Rochelle" employees="3000" coverage="0.0100" />
+			<city name="Cheektowaga" employees="500" coverage="0.0625" />
+			<city name="Mount Vernon" employees="400" coverage="0.0799" />
+			<city name="Schenectady" employees="300" coverage="0.0431" />
+		</cities>
+	</state>
+	<state name="Pennsylvania" offices="19" rating="48.18">
+		<cities>
+			<city name="Philadelphia" employees="280" coverage="0.0974" />
+			<city name="Pittsburgh" employees="100" coverage="0.0146" />
+			<city name="Allentown" employees="233" coverage="0.758" />
+			<city name="Erie" employees="333" coverage="0.0323" />
+			<city name="Reading" employees="80" coverage="0.0441" />
+			<city name="Scranton" employees="230" coverage="0.0700" />
+			<city name="Bethlehem" employees="170" coverage="0.0858" />
+			<city name="Lancaster" employees="25" coverage="0.0925" />
+			<city name="Levittown" employees="157" coverage="0.0299" />
+			<city name="Harrisburg" employees="303" coverage="0.0631" />
+			<city name="York" employees="212" coverage="0.0431" />
+		</cities>
+	</state>
+	<state name="Illinois" offices="28" rating="99">
+		<cities>
+			<city name="Chicago" employees="50" coverage="0.0514" />
+			<city name="Aurora" employees="100" coverage="0.0146" />
+			<city name="Naperville" employees="40" coverage="0.458" />
+			<city name="Joliet" employees="70" coverage="0.0723" />
+			<city name="Waukegan" employees="120" coverage="0.0141" />
+			<city name="Champaign" employees="80" coverage="0.0700" />
+			<city name="Peoria" employees="77" coverage="0.0778" />
+			<city name="Elgin" employees="130" coverage="0.0525" />
+			<city name="Rockford" employees="157" coverage="0.0599" />
+			<city name="Springfield" employees="300" coverage="0.0831" />
+		</cities>
+	</state>
+	<state name="Ohio" offices="37" rating="90">
+		<cities>
+			<city name="Columbus" employees="36" coverage="0.0414" />
+			<city name="Cleveland" employees="69" coverage="0.0446" />
+			<city name="Cincinnati" employees="99" coverage="0.958" />
+			<city name="Toledo" employees="25" coverage="0.0553" />
+			<city name="Akron" employees="13" coverage="0.0441" />
+			<city name="Dayton" employees="129" coverage="0.707" />
+			<city name="Parma" employees="140" coverage="0.0958" />
+			<city name="Canton" employees="67" coverage="0.0525" />
+			<city name="Youngstown" employees="47" coverage="0.0699" />
+			<city name="Lorain" employees="60" coverage="0.0631" />
+		</cities>
+	</state>
+	<state name="Georgia" offices="41" rating="71">
+		<cities>
+			<city name="Atlanta" employees="504" coverage="0.0414" />
+			<city name="Augusta" employees="305" coverage="0.0446" />
+			<city name="Columbus" employees="199" coverage="0.558" />
+			<city name="Macon County" employees="1200" coverage="0.0323" />
+			<city name="Savannah" employees="136" coverage="0.0941" />
+			<city name="Athens" employees="50" coverage="0.0700" />
+			<city name="Sandy Springs" employees="180" coverage="0.0958" />
+			<city name="South Fulton" employees="260" coverage="0.0525" />
+			<city name="Roswell" employees="458" coverage="0.0699" />
+			<city name="Johns Creek" employees="322" coverage="0.0631" />
+		</cities>
+	</state>
+	<state name="North Carolina" offices="30" rating="45.7">
+		<cities>
+			<city name="Charlotte" employees="404" coverage="0.0414" />
+			<city name="Raleigh" employees="506" coverage="0.0946" />
+			<city name="Greensboro" employees="55" coverage="0.958" />
+			<city name="Durham" employees="45" coverage="0.0923" />
+			<city name="Winston-Salem" employees="39" coverage="0.0941" />
+			<city name="Fayetteville" employees="70" coverage="0.0900" />
+			<city name="Cary" employees="87" coverage="0.0858" />
+			<city name="Wilmington" employees="300" coverage="0.0825" />
+			<city name="High Point" employees="231" coverage="0.0399" />
+			<city name="Concord" employees="60" coverage="0.0731" />
+		</cities>
+	</state>
+	<state name="Michigan" offices="29" rating="89.25">
+		<cities>
+			<city name="Detroit" employees="60" coverage="0.0814" />
+			<city name="Grand Rapids" employees="62" coverage="0.0646" />
+			<city name="Warren" employees="68" coverage="0.658" />
+			<city name="Sterling Heights" employees="90" coverage="0.0723" />
+			<city name="Ann Arbor" employees="93" coverage="0.0441" />
+			<city name="Lansing" employees="160" coverage="0.0300" />
+			<city name="Flint" employees="25" coverage="0.0999" />
+			<city name="Dearborn" employees="10" coverage="0.0869" />
+			<city name="Livonia" employees="26" coverage="0.0874" />
+			<city name="Troy" employees="81" coverage="0.0811" />
+		</cities>
+	</state>
+</states>
